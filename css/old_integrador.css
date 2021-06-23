@@ -1,0 +1,200 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+ .wrapper{
+    /* width: 100%; */
+    margin: 0 auto;
+    /* text-align: center; */
+    /* overflow: hidden; */
+} 
+
+  
+ .header{
+     
+    height: 100px;
+    background-image: url("./img/header.jpg");
+    display: block;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 1000px;
+    color: white;
+    
+} 
+
+/* #navppal{
+    color:thistle;
+} */
+#navppal a{
+    color:thistle;
+    
+    
+}
+
+
+
+
+
+ .tituloppal{
+    display:inline-block;
+    color: #fff;
+ 
+  } 
+
+.moreabout{
+    width: 200px;
+    height: auto;
+    margin: 4px;
+    padding: 2px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+    display: inline-block;
+    text-align: center;
+    
+}
+.text-menu{
+    list-style: none;
+    display: inline;
+}
+
+.botonnaranjacontacto{
+    color: white;
+    background-color: orange;
+    border: none;
+    cursor: pointer;
+    padding: 12px 22px;
+    margin-left: 50px;
+    
+}
+.precio{
+    color: limegreen;
+}
+.cardfooter{
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+.miniaturas{
+    height: 180px;
+    width: auto;
+}
+.ventas{
+    
+    
+    margin-top: 50px;
+    margin: auto;
+    display: inline-block;
+    text-align: center;
+   
+    width: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.showcard{
+    
+    width: 280px;
+    margin: auto;
+    height: auto;
+    display: inline-block;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+.negrita{font-weight: bold;}
+
+.vertodasbutton{
+    background-color: green;
+    color: white;
+    padding: 30px 60px;
+    border: none;
+    cursor: pointer;
+    text-align: right;
+    margin: 8px;
+}
+
+.verpropbutton{
+    color: white;
+    background-color: orange;
+    padding: 20px 60px;
+    border: none;
+    cursor: pointer;
+    margin: 20px;
+}
+
+
+
+.bottomnav{
+    background-color: gray;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.bottomnav li{
+    display: inline-block;
+ 
+} 
+
+
+
+ 
+header{
+    display: block;
+    background-color: #E7EBDA;
+    width:100%;
+}
+
+header h1{
+    text-transform: uppercase;
+    text-align: left;
+    width:30%;
+    display:inline-block;
+}
+header nav{
+    text-align: right;
+    display:inline-block;
+    width:60%;
+}
+
+header ul{
+    display: inline-block;
+    list-style-type: none;
+    margin: 0.5em auto;
+    text-align: center;
+}
+
+header ul li{
+    display: inline-block;
+}
+
+header ul li a{
+    text-decoration: none;
+    border: solid;
+    border-color: #7D8471;
+    border-radius: 50px;
+    background-color: #7D8471;
+    color: white;
+    padding: 0.3em;
+}
+
+header ul li a:hover{
+    background-color: #B8B799;
+    border-color: #B8B799;
+}
+
+header ul li a:active{
+    padding: 0.2em;
+} 
+
+
+.listanav{
+ 
+    display: inline-block;
+    background-color: teal;
+}
+.navi{list-style: none; display: inline; float: right; margin: 30px;}

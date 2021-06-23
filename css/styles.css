@@ -1,0 +1,22 @@
+div{height: 200px;
+width: 200px;
+font-size: 24px;
+margin: 8px;
+}
+.fondorojo{
+    display: inline-block;
+    background-color: red;
+    color: yellow;    
+    position: relative;
+}
+
+.fondonegro{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    position: relative;
+
+}
+p{
+    margin-top: 2px;
+}
